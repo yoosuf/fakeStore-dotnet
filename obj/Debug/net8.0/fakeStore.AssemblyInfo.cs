@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fakeStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f7be7c7fc57e28eb98b3b3ca8d04c3d5877ff7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("fakeStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fakeStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
